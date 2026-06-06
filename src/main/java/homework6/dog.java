@@ -1,3 +1,4 @@
+//@Author Dimitri Zhvania
 package homework6;
 
 public class dog extends Animal {
